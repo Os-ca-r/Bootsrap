@@ -1,0 +1,17 @@
+<body>
+    <div class="container-fluid">
+        <div class="jumbotron">
+            <h1>A Website about Oscar Zheng</h1>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 header">Videogames</div>
+            <div class="col-sm-6 header">Listening to Music</div>
+        </div>
+        <div class="row">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-2 description">I like to play videogames any change I get. Videogames help  me pass the time and interact with friends.</div>
+            <div class="col-sm-4"></div>
+            <div class="col-sm-2 description">Music is a way for me to get through a lot of things, wheter it be time, doing cardio, or studying.
+            </div>
+            <div class="col-sm-2"></div>
+        </div>

@@ -4,3 +4,13 @@
 .header {
     font-size:30px
 }
+.jumbotron {
+    background-image:url("madison.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position-y:center;
+    
+}
+#p {
+    font-size:15px
+}
