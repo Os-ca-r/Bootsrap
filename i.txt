@@ -1,17 +1,44 @@
-<body>
-    <div class="container-fluid">
-        <div class="jumbotron">
-            <h1>A Website about Oscar Zheng</h1>
+<div class="container-fluid">
+            <div class="jumbotron">
+                <h1>A Website about Oscar Zheng</h1></div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <a href="index.html"class="btn btn-primary left-align">Home</a>
+                    </div>
+                    <div class="col-sm-4">
+                        <button type="button" class="btn btn-danger">There</button>
+                    </div>
+                    <div class="col-sm-4">
+                        <button type="button" class="btn btn-warning">Welcome</button>
+                    </div>
+                </div>
+
         </div>
-        <div class="row">
-            <div class="col-sm-6 header">Videogames</div>
-            <div class="col-sm-6 header">Listening to Music</div>
-        </div>
-        <div class="row">
-            <div class="col-sm-2"></div>
-            <div class="col-sm-2 description">I like to play videogames any change I get. Videogames help  me pass the time and interact with friends.</div>
-            <div class="col-sm-4"></div>
-            <div class="col-sm-2 description">Music is a way for me to get through a lot of things, wheter it be time, doing cardio, or studying.
-            </div>
-            <div class="col-sm-2"></div>
+        <div class="container">
+            <table class="table table striped"
+            
+            align="justify">
+                <thead>
+                    
+                    <tr>
+                        <th colspan="5">A Timeline for Me</th>
+                    </tr>
+                
+                    <tr>
+                        <th>January 23, 2007</th>
+                        <th>2009</th>
+                        <th>Summer of 2018</th>
+                        <th>August, 2021</th>
+                        <th>July,2022</th>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>I was born in New York City, in New York</td>
+                        <td>My family and I drove from New York all the way to Jackson, TN.</td>
+                        <td>We went on a month vacation to Hong Kong.</td>
+                        <td>This is when I started going to high school.</td>
+                        <td>I took my driver's permit and passed.</td>
+                    </tr>
+                </tbody>
+        </table>
         </div>
