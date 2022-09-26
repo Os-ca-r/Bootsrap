@@ -35,4 +35,21 @@ li {
 .here {
     color:red
 }
-
+.carousel-caption {
+    color:black;
+    margin-bottom: 200px;
+}.carousel-item {
+    height: 1000px;
+  }
+  
+.carousel-item+img {
+      position: absolute; 
+      min-height: 500px;
+      object-fit: cover;
+}
+.carousel-inner{
+     height: 800px;
+}
+#cube {
+    background-color:black;
+}
