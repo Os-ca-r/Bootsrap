@@ -60,9 +60,15 @@ li {
      height: 700px;
 }
 #cube {
-    background-color:black;
+    background-color:white;
     padding-bottom:100px
 }
 .tar, .car {
     height:700px
+}
+.cube .carousel-caption{
+    color:black
+}
+#cube h1 {
+    color:black
 }
