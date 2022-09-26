@@ -36,9 +36,17 @@ li {
     color:red
 }
 .carousel-caption {
-    color:black;
-    margin-bottom: 200px;
-}.carousel-item {
+    color:white;
+    margin-bottom: 300px;
+}
+.carousel-caption p {
+    color:blue;
+    font-weight:bolder
+}
+.carousel-caption #tar {
+    color:red
+}
+.carousel-item {
     height: 1000px;
   }
   
@@ -46,10 +54,15 @@ li {
       position: absolute; 
       min-height: 500px;
       object-fit: cover;
+      
 }
 .carousel-inner{
-     height: 800px;
+     height: 700px;
 }
 #cube {
     background-color:black;
+    padding-bottom:100px
+}
+.tar, .car {
+    height:700px
 }
